@@ -1,0 +1,27 @@
+/* displayAll */
+
+body{
+    background-color: #fff;
+}
+
+    .big-container {
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    background-color: white; 
+    padding: 20px; 
+}
+
+.car-box {
+    background-color: #fff; 
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    margin: 5px; 
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/* Style for car images */
+.car-image {
+    max-width: 100%; 
+    height: auto; 
+}
+    

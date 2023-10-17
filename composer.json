@@ -1,0 +1,6 @@
+{
+    "require": {
+        "shardj/zf1-future": "^1.23",
+        "smarty/smarty": "^4.3"
+    }
+}
